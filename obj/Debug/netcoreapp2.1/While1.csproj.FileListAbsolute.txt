@@ -1,0 +1,11 @@
+C:\Users\gustavo.calbuquerque\CSharp\primeiros_passos\While1\bin\Debug\netcoreapp2.1\While1.deps.json
+C:\Users\gustavo.calbuquerque\CSharp\primeiros_passos\While1\bin\Debug\netcoreapp2.1\While1.runtimeconfig.json
+C:\Users\gustavo.calbuquerque\CSharp\primeiros_passos\While1\bin\Debug\netcoreapp2.1\While1.runtimeconfig.dev.json
+C:\Users\gustavo.calbuquerque\CSharp\primeiros_passos\While1\bin\Debug\netcoreapp2.1\While1.dll
+C:\Users\gustavo.calbuquerque\CSharp\primeiros_passos\While1\bin\Debug\netcoreapp2.1\While1.pdb
+C:\Users\gustavo.calbuquerque\CSharp\primeiros_passos\While1\obj\Debug\netcoreapp2.1\While1.csprojAssemblyReference.cache
+C:\Users\gustavo.calbuquerque\CSharp\primeiros_passos\While1\obj\Debug\netcoreapp2.1\While1.csproj.CoreCompileInputs.cache
+C:\Users\gustavo.calbuquerque\CSharp\primeiros_passos\While1\obj\Debug\netcoreapp2.1\While1.AssemblyInfoInputs.cache
+C:\Users\gustavo.calbuquerque\CSharp\primeiros_passos\While1\obj\Debug\netcoreapp2.1\While1.AssemblyInfo.cs
+C:\Users\gustavo.calbuquerque\CSharp\primeiros_passos\While1\obj\Debug\netcoreapp2.1\While1.dll
+C:\Users\gustavo.calbuquerque\CSharp\primeiros_passos\While1\obj\Debug\netcoreapp2.1\While1.pdb
